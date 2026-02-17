@@ -1,4 +1,3 @@
-# Task 1: Basic Math
 income = 150000
 spending = 95000
 my_profit = income - spending
