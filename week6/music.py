@@ -1,6 +1,5 @@
 tracks = []
 genres = {}
-# Put your own values here when running
 for i in range(3):
     s, g = input("Song: "), input("Genre: ")
     tracks.append((s, g))
